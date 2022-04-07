@@ -3,7 +3,7 @@ Make short link by using [ExpertLinks](https://expertlinks.in) API key. Made by 
 
 ### New Features!!
 
-* Shorten Many Links in a message. [For More Info, Check Screenshots.]
+* Shorten Many Links in a message. 
 
 
 ### Installation
