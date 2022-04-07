@@ -35,7 +35,7 @@ bot = Client('expertlinks bot',
 async def start(bot, message):
     await message.reply(
         f"**Hi {message.chat.first_name}!**\n\n"
-        "I'm a specialised bot for shortening Expertlinks Url Shortner links which can help you earn money by just sharing links. Made by <a href=\"https://github.com/atozcartoonist\">AtoZCartoonist</a>.")
+        "I'm a specialised bot for shortening Expertlinks Url Shortner, Just Send me any links, I will short the links for you my friend 🙂. Made by <a href=\"https://github.com/atozcartoonist\">AtoZCartoonist</a>.")
 
 
 @bot.on_message(filters.regex(r'https?://[^\s]+') & filters.private)
